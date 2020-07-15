@@ -17,7 +17,7 @@ The dataset I used is called [Data Police shootings](https://www.kaggle.com/mrmo
 
 The Plotly graphs would not show up on the static preview here. Hence, for the preview, please visit the [Kaggle notebook](https://www.kaggle.com/shoaibmnagi/us-police-and-racism-analyzing-shooting-data).
 
-## [Covid-19 in Pakistan: Visaulizations](https://www.kaggle.com/shoaibmnagi/coronavirus-in-pakistan-basic-visualizations)
+## [Covid-19 in Pakistan: Visualizations](https://www.kaggle.com/shoaibmnagi/coronavirus-in-pakistan-basic-visualizations)
 Some interactive visualizations to explore the Covid-19 situation and spread in Pakistan. I plan on extending this by adding a forecasting model.
 
 
