@@ -16,3 +16,8 @@ A basic analysis of police shootings over the last six years in the United State
 The dataset I used is called [Data Police shootings](https://www.kaggle.com/mrmorj/data-police-shootings) and it was uploaded by Andriy Samoshin on Kaggle. It contains all fatal police shootings in the US since 2015. 
 
 The Plotly graphs would not show up on the static preview here. Hence, for the preview, please visit the [Kaggle notebook](https://www.kaggle.com/shoaibmnagi/us-police-and-racism-analyzing-shooting-data).
+
+## [Covid-19 in Pakistan: Visaulizations](https://www.kaggle.com/shoaibmnagi/coronavirus-in-pakistan-basic-visualizations)
+Some interactive visualizations to explore the Covid-19 situation and spread in Pakistan. I plan on extending this by adding a forecasting model.
+
+
